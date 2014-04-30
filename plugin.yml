@@ -1,0 +1,6 @@
+name: gRoleplay
+main: com.gc13.gRoleplay.Plugin
+version: 0.1
+commands:
+  gecon:
+    description: "spawn trading villager"
